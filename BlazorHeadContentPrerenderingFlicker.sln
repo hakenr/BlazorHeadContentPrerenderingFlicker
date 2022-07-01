@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorHeadContentPrerenderingFlicker.Server", "BlazorHeadContentPrerenderingFlicker\Server\BlazorHeadContentPrerenderingFlicker.Server.csproj", "{2BB9169C-CC1E-4F6B-AA26-65A5D2DD909F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorHeadContentPrerenderingFlicker.Client", "BlazorHeadContentPrerenderingFlicker\Client\BlazorHeadContentPrerenderingFlicker.Client.csproj", "{3B935BCB-3871-432D-903B-92DC15E621AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorHeadContentPrerenderingFlicker.Shared", "BlazorHeadContentPrerenderingFlicker\Shared\BlazorHeadContentPrerenderingFlicker.Shared.csproj", "{66D5BC9A-690D-4D05-9C52-ED2F758EE683}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BB9169C-CC1E-4F6B-AA26-65A5D2DD909F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB9169C-CC1E-4F6B-AA26-65A5D2DD909F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB9169C-CC1E-4F6B-AA26-65A5D2DD909F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB9169C-CC1E-4F6B-AA26-65A5D2DD909F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B935BCB-3871-432D-903B-92DC15E621AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B935BCB-3871-432D-903B-92DC15E621AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B935BCB-3871-432D-903B-92DC15E621AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B935BCB-3871-432D-903B-92DC15E621AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66D5BC9A-690D-4D05-9C52-ED2F758EE683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D5BC9A-690D-4D05-9C52-ED2F758EE683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D5BC9A-690D-4D05-9C52-ED2F758EE683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D5BC9A-690D-4D05-9C52-ED2F758EE683}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29846C0C-839F-48A8-9631-18090B2FC72F}
+	EndGlobalSection
+EndGlobal
